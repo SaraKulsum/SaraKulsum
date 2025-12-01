@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A Full-Stack Developer
+<h3 align="left">A Web Developer
 Specializing in Crafting Seamless UI Backed by Robust Solutions.</h3>
 
 # About me 
