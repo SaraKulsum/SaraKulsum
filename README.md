@@ -1,13 +1,13 @@
-<h1>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/></h1> 
+## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
  
 <h3 align="left">I'm <a href="https://sara-kulsum.web.app/" target="_blank">Sara</a>! A Web Developer
 Specializing in Crafting Seamless UI Backed by Robust Solutions.</h3>
 
-# About me 
+## About me 
 
 <p align="left">🔭 Currently working at <strong>Haletale</strong> previously worked at <strong>Scalar Field</strong>.<br>📚 Commitment to staying updated with the latest techniques.<br> 👨‍💻 Explore my Work at <a href="https://sara-kulsum.web.app/" target="_blank">PORTFOLIO</a>.<br>📄 Dive into my experiences with my <a href="https://drive.google.com/file/d/15-riX425T5oJylcEgKXJgGH2cTp9txC-/view" target="_blank">RESUME</a></p>
 
-# Tech Stack:
+## Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -38,11 +38,11 @@ Specializing in Crafting Seamless UI Backed by Robust Solutions.</h3>
 
 ###
 
-# Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarakulsum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarakhanx63@gmail.com) 
 
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarakulsum&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sarakulsum&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarakulsum&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
