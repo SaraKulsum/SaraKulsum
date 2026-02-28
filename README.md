@@ -1,8 +1,5 @@
-<h2 align="left">Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="40"/>
- </h2> 
+<h1>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/></h1> 
  
-###
-
 <h3 align="left">I'm <a href="https://sara-kulsum.web.app/" target="_blank">Sara</a>! A Web Developer
 Specializing in Crafting Seamless UI Backed by Robust Solutions.</h3>
 
