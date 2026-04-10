@@ -41,7 +41,7 @@ Specializing in Crafting Seamless UI Backed by Robust Solutions.</h3>
 ## Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarakulsum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarakhanx63@gmail.com) 
 
-
+<!--
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarakulsum&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sarakulsum&theme=dark&hide_border=false)<br/>
@@ -52,5 +52,5 @@ Specializing in Crafting Seamless UI Backed by Robust Solutions.</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarakulsum&icon=1&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
