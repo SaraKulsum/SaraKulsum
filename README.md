@@ -7,6 +7,15 @@ Specializing in Crafting Seamless UI Backed by Robust Solutions.</h3>
 
 <p align="left">🔭 Currently working at <strong>Haletale</strong> previously worked at <strong>Scalar Field</strong>.<br>📚 Commitment to staying updated with the latest techniques.<br> 👨‍💻 Explore my Work at <a href="https://sara-kulsum.web.app/" target="_blank">PORTFOLIO</a>.<br>📄 Dive into my experiences with my <a href="https://drive.google.com/file/d/15-riX425T5oJylcEgKXJgGH2cTp9txC-/view" target="_blank">RESUME</a></p>
 
+###
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats-nu-three-94.vercel.app/api?username=SaraKulsum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-nu-three-94.vercel.app/api/top-langs?username=SaraKulsum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div> -->
+
+###
+
 ## Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
